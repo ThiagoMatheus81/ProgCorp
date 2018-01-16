@@ -1,0 +1,19 @@
+{
+  "name": "porgrama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoMatheus81/ProgCorp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoMatheus81/ProgCorp/issues"
+  },
+  "homepage": "https://github.com/ThiagoMatheus81/ProgCorp#readme"
+}
