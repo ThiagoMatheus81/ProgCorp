@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ThiagoMatheus81/ProgCorp/issues"
   },
-  "homepage": "https://github.com/ThiagoMatheus81/ProgCorp#readme"
+  "homepage": "https://github.com/ThiagoMatheus81/ProgCorp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
